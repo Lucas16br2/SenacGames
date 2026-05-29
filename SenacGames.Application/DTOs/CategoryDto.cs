@@ -28,6 +28,5 @@ namespace SenacGames.Application.DTOs
         {
             public string name { get; set; } = string.Empty;
         }
-
     }
 }

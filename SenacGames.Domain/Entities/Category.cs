@@ -11,6 +11,7 @@
 // Isso significa que cada Category pode ter vários Games associados.
 // =============================================================================
 
+
 namespace SenacGames.Domain.Entities
 {
     /// <summary>
