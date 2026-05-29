@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\context\\senacgamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.infrastructure\\senacgames.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\senacgames.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA77C993-4A5C-43BB-84F8-9BFA8CF7CF6E}|SenacGames.UI\\SenacGames.API.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA77C993-4A5C-43BB-84F8-9BFA8CF7CF6E}|SenacGames.UI\\SenacGames.API.csproj|solutionrelative:senacgames.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\senacgames.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\senacgames.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.application\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +67,12 @@
       "RelativeMoniker": "D:0:0:{7F81D4ED-7365-41A1-9081-AF3F778D0013}|SenacGames.Application\\SenacGames.Application.csproj|solutionrelative:senacgames.application\\senacgames.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.infrastructure\\senacgames.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{586A6411-BEBD-48A0-B1BA-DB9A68479088}|SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj|solutionrelative:senacgames.infrastructure\\senacgames.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.domain\\senacgames.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F0D227DF-AF11-4766-8E1A-B77CB8E9A26C}|SenacGames.Domain\\SenacGames.Domain.csproj|solutionrelative:senacgames.domain\\senacgames.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA77C993-4A5C-43BB-84F8-9BFA8CF7CF6E}|SenacGames.UI\\SenacGames.API.csproj|c:\\users\\lucas.rsantos86\\source\\repos\\senacgames\\senacgames.ui\\senacgames.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,15 +90,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenacGamesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Context\\SenacGamesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:11:38.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:58:02.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "SenacGames.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:47:50.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.UI\\Program.cs",
+              "RelativeDocumentMoniker": "SenacGames.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.UI\\Program.cs",
+              "RelativeToolTip": "SenacGames.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:42:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ViewModels.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\ViewModels\\ViewModels.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\ViewModels\\ViewModels.cs",
@@ -94,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Services\\CategoryService.cs",
@@ -106,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Services\\GameService.cs",
@@ -118,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Interfaces\\ICategoryService.cs",
@@ -130,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "IGameService.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\Interfaces\\IGameService.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\Interfaces\\IGameService.cs",
@@ -138,12 +199,11 @@
               "RelativeToolTip": "SenacGames.Application\\Interfaces\\IGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:14:01.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:14:01.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AuthDto.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\AuthDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\AuthDto.cs",
@@ -155,19 +215,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\CategoryDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\CategoryDto.cs",
               "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\CategoryDto.cs",
               "RelativeToolTip": "SenacGames.Application\\DTOs\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T18:12:51.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "GameDto.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\DTOs\\GameDto.cs",
               "RelativeDocumentMoniker": "SenacGames.Application\\DTOs\\GameDto.cs",
@@ -179,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "SenacGames.Application.csproj",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Application\\SenacGames.Application.csproj",
               "RelativeDocumentMoniker": "SenacGames.Application\\SenacGames.Application.csproj",
@@ -191,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Domain\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Interfaces\\ICategoryRepository.cs",
@@ -203,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Game.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Entities\\Game.cs",
@@ -215,19 +275,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "SenacGames.Domain\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Domain\\Entities\\Category.cs",
               "RelativeToolTip": "SenacGames.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T17:22:37.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "SenacGames.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Domain\\SenacGames.Domain.csproj",
               "RelativeDocumentMoniker": "SenacGames.Domain\\SenacGames.Domain.csproj",
@@ -239,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "SenacGames.API.csproj",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.UI\\SenacGames.API.csproj",
               "RelativeDocumentMoniker": "SenacGames.UI\\SenacGames.API.csproj",
@@ -251,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "SenacGames.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj",
               "RelativeDocumentMoniker": "SenacGames.Infrastructure\\SenacGames.Infrastructure.csproj",
@@ -263,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\lucas.rsantos86\\source\\repos\\SenacGames\\SenacGames.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "SenacGames.Infrastructure\\Class1.cs",
