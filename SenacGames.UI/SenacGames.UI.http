@@ -1,0 +1,6 @@
+@SenacGames.UI_HostAddress = http://localhost:5211
+
+GET {{SenacGames.UI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
