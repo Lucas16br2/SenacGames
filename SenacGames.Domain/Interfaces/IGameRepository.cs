@@ -61,6 +61,8 @@ namespace SenacGames.Domain.Interfaces
         /// Retorna o total de games cadastrados.
         /// </summary>
         Task<int> CountAsync();
-    }
+        Task AddAsync(SenacGames.Application.DTOs.GameDto game);
+        Task AddAsync(SenacGames.Application.DTOs.GameDto game);
+    }   
 }
 
